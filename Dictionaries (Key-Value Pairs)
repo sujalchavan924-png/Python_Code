@@ -1,0 +1,8 @@
+car_info = {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 1964
+}
+
+# Accessing a value
+print(f"Car Model: {car_info['model']}")
