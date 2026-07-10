@@ -1,0 +1,6 @@
+def calculate_area(width, height):
+    return width * height
+
+# Call the function
+result = calculate_area(5, 10)
+print(f"Area: {result}")
