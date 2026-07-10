@@ -1,0 +1,8 @@
+num1 = 15
+num2 = 7
+
+# Perform addition
+total_sum = num1 + num2
+
+# Print the dynamic message
+print(f"The sum of {num1} and {num2} is {total_sum}")
